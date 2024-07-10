@@ -3,3 +3,5 @@ requests
 pytube
 asyncio
 dpath
+gTTS
+playsound
