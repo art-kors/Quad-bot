@@ -357,4 +357,4 @@ async def on_message(message):
             await member.unban()
 
 
-client.run('MTI1Nzc0OTIyODk4MjM3MDM0NA.GJB6Jj.iDKG2AxbXiVxZK5oTbJNSlYGzUvwkH65Av2PuE')
+client.run('PUT YOUR TOKEN HERE')
