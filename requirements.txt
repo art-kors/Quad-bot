@@ -4,4 +4,4 @@ pytube
 asyncio
 dpath
 gTTS
-playsound
+pynacl
